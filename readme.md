@@ -12,3 +12,12 @@
  10. Write a C program to check whether a year is leap year or not.
  11. Write a C program for following grading system. Note: Percentage>=90% : Grade A Percentage>=80% : Grade B Percentage>=70% : Grade C Percentage>=60% : Grade D Percentage>=40% : Grade E Percentage < 40% : Grade F
  12. Write a C Program to check whether a number is divisible by 5 or not.         
+
+ # 15/02/25
+
+1.  Write a java program to create a simple array and access array element.
+2. Write a java program to create 2D array and access the array element.
+3. Write a Java program to find the sum of even numbers in an integer array.
+4. Write a Java program to calculate Sum of two 2-dimensional arrays.
+5. Write a Java program to find the sum of diagonal elements in a 2D array.
+6. Write a Java program to multiply two matrices.
