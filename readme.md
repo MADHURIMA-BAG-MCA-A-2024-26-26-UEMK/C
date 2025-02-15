@@ -15,9 +15,9 @@
 
  # 15/02/25
 
-1.  Write a java program to create a simple array and access array element.
-2. Write a java program to create 2D array and access the array element.
-3. Write a Java program to find the sum of even numbers in an integer array.
-4. Write a Java program to calculate Sum of two 2-dimensional arrays.
-5. Write a Java program to find the sum of diagonal elements in a 2D array.
-6. Write a Java program to multiply two matrices.
+1. Write a C program to create a simple array and access array element.
+2. Write a C program to create 2D array and access the array element.
+3. Write a C program to find the sum of even numbers in an integer array.
+4. Write a C program to calculate Sum of two 2-dimensional arrays.
+5. Write a C program to find the sum of diagonal elements in a 2D array.
+6. Write a C program to multiply two matrices.
