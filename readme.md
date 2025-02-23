@@ -14,7 +14,7 @@
  12. Write a C Program to check whether a number is divisible by 5 or not.         
 
  # 15/02/25
- 
+
 1. Write a C program to create a simple array and access array element.
 2. Write a C program to create 2D array and access the array element.
 3. Write a C program to find the sum of even numbers in an integer array.
