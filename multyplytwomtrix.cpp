@@ -1,4 +1,4 @@
-   #include <stdio.h>
+    #include <stdio.h>
 
 int main() {
     int matrix1[2][2] = {
