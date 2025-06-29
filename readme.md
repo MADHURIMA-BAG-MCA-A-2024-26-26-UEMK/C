@@ -1,4 +1,4 @@
-# 10/02/25
+  # 10/02/25
  
  1. Write a C Program to Print “HELLO WORLD”.
  2. Write a C Program to add two numbers by declaring variables value.
